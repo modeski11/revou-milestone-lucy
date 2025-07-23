@@ -1,0 +1,12 @@
+dotenv==0.9.9
+langchain==0.3.19
+langchain_core==0.3.40
+langchain_openai==0.3.7
+langgraph==0.2.76
+openai==1.64.0
+pandas==2.2.3
+pinecone==6.0.1
+pydantic==2.10.6
+pymilvus==2.5.5
+requests==2.32.3
+streamlit==1.47.0
